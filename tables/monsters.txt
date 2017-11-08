@@ -1,0 +1,121 @@
+1713 Acidus
+1717 Ferus
+1699 Ancient Mimic
+1716 Acidus
+1721 Dragon Egg
+1191 Mimic
+1026 Munak
+1028 Soldier Skeleton
+1016 Archer Skeleton
+1031 Poporing
+1188 Bongun
+1020 Mandragora
+1714 Ferus
+1760 Ferus
+1720 Hydrolancer
+1759 Acidus
+1757 Acidus
+1179 GM Alilei
+2022 GM Alilei
+1655 GM Alilei
+1065 Strouf
+1264 Merman
+1108 Deviace
+1068 Hydra
+1142 Marine Sphere
+1069 Swordfish
+1261 Wild Rose
+1758 Ferus
+1719 Detardeurus
+1756 Hydro
+1672 Dimik
+1671 Dimik
+1673 Dimik
+1668 Archdam
+1676 Venatu
+1677 Venatu
+1670 Dimik
+1678 Venatu
+1189 Orc Archer
+1194 Arclouze
+1213 High Orc
+1273 Orc Lady
+1023 Orc Warrior
+1011 Chonchon
+1042 Steel Chonchon
+1055 Muka
+1081 Yellow Plant
+1058 Metaller
+1097 Ant Egg
+1035 Hunter Fly
+1105 Deniro
+1095 Andre
+1160 Piere
+1013 Wolf
+1215 Stem Worm
+1083 Shining Plant
+1079 Blue Plant
+1101 Baphomet Jr.
+1078 Red Plant
+1037 Side Winder
+1052 Rocker
+1088 Vocal
+1084 Black Mushroom
+1139 Mantis
+1085 Red Mushroom
+1039 Baphomet
+1063 Lunatic
+1002 Poring
+1294 Killer Mantis
+1186 Giant Whisper
+1431 Baphomet Jr.
+1243 Sasquatch
+1306 Leib Olmai
+1060 Bigfoot
+1082 White Plant
+1114 Dustiness
+1685 Vesper
+1679 Venatu
+1365 Apocalypse
+1674 3rd Gate Switch
+1134 Kobold
+1040 Golem
+1077 Poison Spore
+1135 Kobold
+1133 Kobold
+1158 Phen
+1045 Marc
+1682 Remover
+1627 Anopheles
+1653 Wickebine Tres
+1656 Kavach Icarus
+1613 Metaling
+1654 Armeyer Dinze
+1657 Laurell Weinder
+1652 Egnigem Cenia
+1715 Novus
+1014 Spore
+1010 Willow
+1080 Green Plant
+1008 Pupa
+1018 Creamy
+1773 Hodremlin
+1770 Echio
+1769 Agav
+1772 Isilla
+1774 Seeker
+1633 Beholder
+1831 Salamander
+1830 Bow Master
+1833 Kasa
+1829 Sword Master
+1839 Byorgue
+1163 Raydric
+1219 Abysmal Knight
+1276 Raydric Archer
+1195 Rideword
+1132 Khalitzburg
+1744 Wild Rose
+1275 Alice
+1253 Gargoyle
+1263 Wind Ghost

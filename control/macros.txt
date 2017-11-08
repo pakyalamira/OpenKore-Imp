@@ -1,0 +1,34 @@
+automacro fcp {
+	console /\[dist=(.*)\] (.*) \((\d+)\): (\*Flag 3\*)$/
+	
+	exclusive 1
+	
+	call {
+	
+		$x = @eval ($::players{$::playersID[$.lastMatch3]}->{pos_to}{x})
+		$y = @eval ($::players{$::playersID[$.lastMatch3]}->{pos_to}{y})
+		log target player's coordinates = $x $y
+		
+		$distance = $.lastMatch1
+		$playerName = $.lastMatch2
+		$playerID = $.lastMatch3
+		
+		$playerguild = @eval (exists $::players{$::playersID[$playerID]}->{guild} ? $::players{$::playersID[$playerID]}->{guild}{name} : 'null')
+		
+		$guild = Justin Bieber Fans Club
+		$guild1 = Lacrima
+		
+		if ($playerguild == $guild) goto fcphim
+		if ($playerguild == $guild1) goto fcphim
+		if ($playerguild != $guild) goto who
+		stop
+		
+		:fcphim
+		do move dali02 $x $y 1
+		do sp 479 $playerID
+		stop
+		
+		:who
+		stop
+	}
+}

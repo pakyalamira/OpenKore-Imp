@@ -1,0 +1,250 @@
+payon 164 233 Imperial Healer#payon
+payon 166 233 Imperial Kafra#payon_max
+payon 168 233 Imperial Warper#payon
+payon 158 246 Guardsman#payon
+payon 175 226 Kafra Employee
+payon 173 238 Jade#pay
+abyss_03 98 66 Acidus
+abyss_03 102 66 Acidus
+payon 159 129 Wooden Floor#paypuzz5
+payon 182 132 Grout'he Tuccok#hellion
+payon 177 131 Pet Groomer#pay
+abyss_03 70 67 Acidus
+abyss_03 60 87 Acidus
+abyss_03 48 89 Acidus
+abyss_03 51 107 Acidus
+abyss_03 39 107 Acidus
+abyss_03 55 97 Acidus
+abyss_03 57 119 Acidus
+iz_dun04 117 89 Strouf
+payon 134 211 Young Man#payon
+payon 132 235 Monster Scholar#02
+izlude 125 118 Imperial Healer#izlude
+izlude 127 118 Imperial Kafra#izlude_ma
+izlude 134 116 Imperial Warper#izlude
+izlude 129 118 Smile Assistance#iz
+izlude 131 116 Bulletin Board#5
+izlude 119 121 Cuskoal#izlude
+iz_dun04 145 224 Merman
+iz_dun04 164 94 Strouf
+iz_dun04 74 235 Strouf
+abyss_03 68 169 Acidus
+abyss_03 70 167 Acidus
+abyss_03 83 166 Acidus
+alberta 186 144 Imperial Warper#alberta
+alberta 186 148 Imperial Healer#alberta
+alberta 186 146 Imperial Kafra#alberta_m
+alberta 189 151 Fisk
+alberta 196 146 Crusader#megin2
+alberta 195 151 Paul
+abyss_03 31 84 Acidus
+abyss_03 30 81 Acidus
+abyss_03 90 53 Acidus
+abyss_03 128 66 Acidus
+abyss_03 148 82 Acidus
+abyss_03 149 66 Acidus
+payon 209 44 Rogue Guild Agent#nd2
+abyss_03 119 162 Acidus
+abyss_03 128 146 Acidus
+abyss_03 125 144 Acidus
+abyss_03 150 101 Acidus
+abyss_03 150 105 Acidus
+abyss_03 149 105 Acidus
+abyss_03 155 110 Acidus
+abyss_03 157 111 Acidus
+iz_dun04 42 195 Merman
+abyss_03 127 64 Acidus
+abyss_03 105 63 Acidus
+abyss_03 72 74 Acidus
+abyss_03 141 98 Acidus
+abyss_03 155 109 Acidus
+abyss_03 136 135 Acidus
+abyss_03 97 159 Acidus
+abyss_03 97 166 Acidus
+iz_dun04 37 162 Swordfish
+iz_dun04 134 185 Strouf
+iz_dun04 209 227 Strouf
+iz_dun04 160 123 Strouf
+iz_dun04 147 153 Swordfish
+iz_dun04 131 209 Merman
+iz_dun04 83 217 Merman
+abyss_03 150 60 Acidus
+iz_dun04 115 115 Strouf
+iz_dun04 177 111 Strouf
+iz_dun04 119 178 Swordfish
+iz_dun04 236 237 Strouf
+iz_dun04 112 224 Merman
+moc_fild18 109 197 Trace of Battle#15
+moc_fild18 111 303 Trace of Battle#14
+moc_fild18 177 333 Trace of Battle#13
+moc_fild18 309 257 Trace of Battle#12
+moc_fild18 346 296 Trace of Battle#11
+moc_fild18 156 96 Trace of Battle#16
+moc_fild18 108 116 #treasure
+prt_maze03 58 149 Hunter Fly
+prt_maze03 103 105 Mantis
+prt_maze02 100 69 Soldier#pront
+prt_maze02 110 69 Soldier#2pront
+prt_maze03 173 168 Mantis
+prt_maze03 85 54 Side Winder
+prt_maze03 180 60 Side Winder
+prt_maze02 57 151 Pleur#warp
+prt_maze03 103 29 Side Winder
+jupe_core 143 40 Dimik
+abyss_03 140 150 Acidus
+abyss_03 51 136 Acidus
+jupe_core 38 221 Venatu
+jupe_core 157 67 Venatu
+jupe_core 135 24 Venatu
+jupe_core 259 62 Venatu
+jupe_core 232 249 Venatu
+jupe_core 196 271 Dimik
+jupe_core 122 29 Venatu
+jupe_core 221 40 Venatu
+jupe_core 189 27 Venatu
+jupe_core 259 70 Venatu
+jupe_core 149 174 Venatu
+jupe_core 24 98 Venatu
+jupe_core 219 150 Venatu
+jupe_core 277 153 Venatu
+jupe_core 157 73 Venatu
+jupe_core 139 98 Venatu
+jupe_core 93 31 Venatu
+jupe_core 104 267 Dimik
+jupe_core 93 269 Venatu
+jupe_core 25 160 Dimik
+jupe_core 30 96 Dimik
+jupe_core 51 62 Venatu
+jupe_core 57 64 Dimik
+jupe_core 66 58 Dimik
+jupe_core 35 216 Dimik
+jupe_core 274 143 Venatu
+jupe_core 208 149 Venatu
+jupe_core 24 189 Venatu
+jupe_core 245 60 Venatu
+jupe_core 123 282 Venatu
+jupe_core 25 119 Venatu
+jupe_core 275 159 Dimik
+jupe_core 169 24 Venatu
+jupe_core 186 151 Dimik
+jupe_core 238 255 Venatu
+jupe_core 99 40 Venatu
+jupe_core 267 95 Dimik
+jupe_core 178 30 Venatu
+jupe_core 47 223 Venatu
+jupe_core 48 230 Venatu
+jupe_core 149 165 Venatu
+jupe_core 172 26 Venatu
+jupe_core 91 265 Venatu
+jupe_core 64 149 Venatu
+jupe_core 73 151 Venatu
+jupe_core 286 177 Dimik
+jupe_core 274 133 Venatu
+jupe_core 265 104 Venatu
+jupe_core 70 48 Dimik
+jupe_core 146 91 Venatu
+jupe_core 30 208 Venatu
+jupe_core 153 176 Dimik
+jupe_core 189 278 Dimik
+juperos_02 161 96 Venatu
+juperos_02 154 94 Apocalypse
+juperos_02 158 61 Venatu
+juperos_02 168 57 Apocalypse
+juperos_02 28 137 Venatu
+juperos_02 43 231 Venatu
+juperos_02 225 98 Venatu
+juperos_01 123 92 Stone Statue
+juperos_01 170 107 Venatu
+juperos_01 239 105 Venatu
+juperos_01 238 105 Venatu
+juperos_02 165 69 Apocalypse
+juperos_02 67 157 Venatu
+juperos_02 93 174 Venatu
+juperos_02 57 76 Apocalypse
+juperos_02 125 52 Venatu
+juperos_02 159 97 Venatu
+juperos_01 99 112 Bronze Statue#1
+juperos_01 79 92 Sculpture
+juperos_01 77 127 Venatu
+juperos_01 139 117 Venatu
+juperos_02 133 123 Venatu
+juperos_02 108 127 Apocalypse
+juperos_02 196 152 Venatu
+juperos_02 75 119 Venatu
+juperos_02 24 276 Venatu
+juperos_02 54 75 Venatu
+juperos_02 157 52 Venatu
+juperos_02 181 213 Venatu
+juperos_02 97 192 Apocalypse
+juperos_02 101 78 Venatu
+juperos_02 72 154 Venatu
+juperos_02 186 128 Venatu
+juperos_02 163 119 Venatu
+juperos_02 108 189 Apocalypse
+juperos_02 122 137 Apocalypse
+juperos_02 126 125 Venatu
+juperos_02 229 110 Venatu
+juperos_02 116 187 Venatu
+juperos_02 30 275 Venatu
+juperos_02 130 231 Venatu
+juperos_02 87 100 Venatu
+juperos_02 73 93 Venatu
+juperos_02 71 167 Venatu
+juperos_02 126 129 Apocalypse
+juperos_02 125 175 Venatu
+juperos_02 96 183 Venatu
+juperos_02 90 176 Apocalypse
+juperos_02 132 257 Venatu
+juperos_02 233 156 Venatu
+juperos_02 220 89 Apocalypse
+juperos_02 104 227 Venatu
+juperos_02 202 32 Venatu
+juperos_02 72 138 Apocalypse
+juperos_02 166 126 Apocalypse
+juperos_02 95 96 Venatu
+juperos_02 69 128 Venatu
+juperos_02 158 92 Venatu
+juperos_02 164 124 Venatu
+juperos_02 83 196 Venatu
+juperos_02 46 112 Venatu
+juperos_02 184 226 Apocalypse
+juperos_02 66 62 Venatu
+juperos_02 53 110 Venatu
+juperos_02 73 86 Venatu
+juperos_02 48 84 Venatu
+juperos_02 48 219 Venatu
+juperos_02 192 63 Apocalypse
+juperos_02 195 67 Venatu
+juperos_02 182 150 Venatu
+juperos_02 99 75 Apocalypse
+juperos_02 51 115 Apocalypse
+juperos_02 165 89 Venatu
+juperos_02 159 98 Venatu
+abyss_03 124 146 Acidus
+abyss_03 131 157 Acidus
+thor_v03 78 61 Salamander
+thor_v03 185 82 Salamander
+thor_v03 49 110 Salamander
+thor_v03 185 205 Salamander
+thor_v03 206 179 Salamander
+abyss_03 34 70 Acidus
+abyss_03 72 165 Acidus
+abyss_03 147 53 Acidus
+abyss_03 148 56 Acidus
+abyss_03 157 74 Acidus
+abyss_03 90 108 Acidus
+abyss_03 61 123 Acidus
+abyss_03 50 143 Acidus
+gl_knt01 24 269 Abysmal Knight
+gl_knt01 43 87 Abysmal Knight
+abyss_03 132 138 Acidus
+abyss_03 122 173 Acidus
+abyss_03 133 131 Acidus
+abyss_03 41 104 Acidus
+abyss_03 134 152 Acidus
+alberta 167 135 Chef Assistant#alb
+dali02 101 94 Imperial Healer#dali02
+dali02 109 94 Costume Gem Shop#dali02
+dali02 107 93 Imperial Kafra
+dali02 114 94 Imperial Warper#dali02
+dali02 119 94 Gear Gem Shop#dali02
