@@ -24,8 +24,6 @@ automacro fcp {
 		do move dali02 $x $y 1
 		do sp 361 $playerID 5
 		do sp 66 $playerID 5
-		do sp 29 $playerID 10
-		do sp 34 $playerID 10
 		stop
 		
 		:who
