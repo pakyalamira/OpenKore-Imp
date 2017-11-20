@@ -1,0 +1,31 @@
+###################### INSTRUCTIONS ######################
+#												   		 #
+#	Change *Enter Name Here* to your character's		 #
+#	name/IGN.											 #
+#														 #		
+#	e.g.												 #
+#	console /\(From: *Enter Name Here*\) : farm (.*)/	 #
+#	console /\(From: Cheater\) : farm (.*)/				 #
+#														 #
+##########################################################
+
+automacro timeToFarm {
+	console /\(From: *Enter Name Here*\) : farm (.*)/
+	run-once 1
+	call {
+		$farmWhere = $.lastMatch1
+		do conf farmMap $farmWhere
+		do conf teleportAuto_useChatCommand @warp $farmWhere
+		do c @warp @config(farmMap)
+		release timeToFarm
+	}
+}
+
+automacro stopFarm {
+	console /\(From: *Enter Name Here*\) : stop farm/
+	run-once 1
+	call {
+		do c @warp @config(saveMap)
+		release stopFarm
+	}
+}

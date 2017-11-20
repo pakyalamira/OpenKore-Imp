@@ -1,0 +1,87 @@
+# In this file you can control which items to put in storage,
+# to sell, or to leave in the inventory.
+#
+# Syntax:
+# (item name) (minimum) (auto-store) (auto-sell) [put in cart] [get from cart]
+# item name	: Name of the item.
+# miminum	: The minimum amount of this item that you want to keep in inventory.
+# autostore	: Set to 1 to walk back to a Kapra NPC to put in storage.
+# autosell	: Set to 1 to sell item at a buy/sell NPC.
+# put in cart	: Set to 1 to automatically put this item in cart.
+# get from cart : Set to 1 to automatically get this item from cart.
+#
+# The example below will sell all jellopies, store all knifes and puts
+# all flowers in cart:
+#	Jellopy 0 0 1
+#	Knife 0 1 0
+#	Flower 0 0 0 1
+#
+# This example will get Red Potions from cart if you have less than 25
+# of them in your inventory:
+# 	Red Potion 25 0 0 0 1
+#
+# The item name isn't case sensitive. Only items found in this file will
+# be stored or sold.
+#
+# If auto-store and auto-sell are 1, Kore will do storage first (unless
+# storage is full) then sell.
+#
+# Kore will not sell or store equipped items. For example, if you're using
+# a knife and you have a line to auto-sell all knives, kore will sell any
+# extras it picks up, not the knife it's using.
+#
+# Don't forget to set the storageAuto, sellAuto and related configuration
+# options in config.txt, or this file won't have any effect.
+#
+# An auto-sell list and auto-storage list is provided by default, modify it
+# as you see fit.
+
+
+# All items not mentioned in this file will be automatically stored in storage.
+#all 0 1 0
+
+## Valor Quest
+# Part 1
+1054 0 1 0 # Ancient Lips
+1053 0 1 0 # Ancient Tooth
+1034 0 1 0 # Blue Hair
+720 0 1 0 # Aquamarine
+
+# Part 2
+999 0 1 0 # Steel
+923 0 1 0 # Evil Horn
+995 0 1 0 # Mystic Frozen
+963 0 1 0 # Sharp Scale
+
+# Part 3
+7356 0 1 0 # Crest Piece
+7357 0 1 0 # Crest Piece
+7358 0 1 0 # Crest Piece
+7359 0 1 0 # Crest Piece
+7095 0 1 0 # Metal Fragment
+
+# Part 4
+4341 0 1 0 # Metalling Card
+998 0 1 0 # Iron
+7563 0 1 0 # Bloody Rune
+7094 0 1 0 # Fragment
+1035 0 1 0 # Dragon Canine
+7097 0 1 0 # Burning Heart
+
+# Part 5
+1004 0 1 0 # Chivalry Emblem
+1001 0 1 0 # Star Dust
+7203 0 1 0 # Strong Branch
+916 0 1 0 # Feather of Birds
+7511 0 1 0 # Rune of Darkness
+7122 0 1 0 # Burning Hair
+1067 0 1 0 # Solid Trunk
+7295 0 1 0 # Citrin
+2678 0 1 0 # Ring of Flame Lord
+2679 0 1 0 # Ring of Resonance
+5123 0 1 0 # Ulles Cap
+2702 0 1 0 # Bison Cap
+
+## MISC ITEMS | STORAGE ##
+7444 0 1 0 # Treasure Box
+608 0 1 0 # Yggdrasil Seed
