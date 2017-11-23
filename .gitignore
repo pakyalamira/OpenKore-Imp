@@ -37,3 +37,5 @@ _ReSharper*/
 *.resharper
 [Tt]est[Rr]esult*
 control/config.txt
+HighWiz/control/config.txt
+HighPriest/control/config.txt
