@@ -15,11 +15,13 @@ automacro fcp {
 		
 		$playerguild = @eval (exists $::players{$::playersID[$playerID]}->{guild} ? $::players{$::playersID[$playerID]}->{guild}{name} : 'null')
 		
-		$guild = Justin Bieber Fans Club
-		$guild1 = Lacrima
+		$guild = The Emperors
+		$guild1 = Remonstrance
+		$guild2 = Together
 		
 		if ($playerguild == $guild) goto fcphim
 		if ($playerguild == $guild1) goto fcphim
+		if ($playerguild == $guild2) goto fcphim
 		if ($playerguild != $guild) goto who
 		stop
 		
