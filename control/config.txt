@@ -170,7 +170,7 @@ followDistanceMax 6
 followDistanceMin 3
 followLostStep 12
 followSitAuto 0
-followBot 1
+followBot 0
 followRandom 0
 followRandomDistance 4
 
