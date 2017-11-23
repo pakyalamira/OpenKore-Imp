@@ -26,7 +26,7 @@ automacro fcp {
 		stop
 		
 		:fcphim
-		do move dali02 $x $y 1
+		do move @config(saveMap) $x $y 1
 		do sp 479 $playerID
 		stop
 		

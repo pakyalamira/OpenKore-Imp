@@ -59,8 +59,8 @@ alias_heal sp 28
 allowedMaps
 allowedMaps_reaction 1
 
-attackAuto 1
-attackAuto_party 1
+attackAuto 0
+attackAuto_party 0
 attackAuto_onlyWhenSafe 0
 attackAuto_followTarget 1
 attackAuto_inLockOnly 1
@@ -193,7 +193,7 @@ lockMap_randY
 route_escape_reachedNoPortal 1
 route_escape_randomWalk 1
 route_escape_shout
-route_avoidWalls 0
+route_avoidWalls 1
 route_randomWalk 0
 route_randomWalk_inTown 0
 route_randomWalk_maxRouteTime 75
@@ -211,7 +211,7 @@ runFromTarget_dist 6
 
 saveMap dali02
 saveMap_warpToBuyOrSell 1
-saveMap_warpChatCommand @warp dali02 112 80
+saveMap_warpChatCommand 
 memo1
 memo2
 memo3
@@ -255,7 +255,7 @@ teleportAuto_maxDmg 500
 teleportAuto_maxDmgInLock 0
 teleportAuto_deadly 1
 teleportAuto_useSkill 3
-teleportAuto_useChatCommand @warp dali02 112 80
+teleportAuto_useChatCommand
 teleportAuto_allPlayers 0
 teleportAuto_notPlayers
 teleportAuto_atkCount 0
@@ -282,11 +282,11 @@ partyAutoShareItem 0
 partyAutoShareItemDiv 0
 guildAutoDeny 1
 
-verbose 1
+verbose 0
 showDomain 0
 showDomain_NPC parseMsg_presence
 showDomain_Shop list
-squelchDomains
+squelchDomains skill
 verboseDomains
 beepDomains
 beepDomains_notInTown
