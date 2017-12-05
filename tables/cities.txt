@@ -109,3 +109,4 @@ quiz_00.rsw#Desafio das Perguntas#
 bliss.rsw#Bliss, Hidden Village#
 ra_temsky.rsw#Pope's Room (Sky Garden)#
 dali02.rsw#Dimensional Rift#
+core.rsw#Core#
